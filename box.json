@@ -1,0 +1,6 @@
+{
+    "name":"coldbox-hack",
+    "dependencies":{
+        "coldbox":"^7.0.0"
+    }
+}
